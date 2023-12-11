@@ -2,6 +2,8 @@
 
 This was tested on v45, but probably works fine in other versions too.
 
+You can only play with other patched clients. You cannot play with unpatched clients.
+
 1. Make sure you're using a modern version of PowerShell
    - You can get it here https://github.com/PowerShell/PowerShell/releases/tag/v7.4.0
 2. Open the Lethal Company folder in file explorer.
