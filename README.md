@@ -2,7 +2,7 @@
 
 This was tested on v45, but probably works fine in other versions too.
 
-You can only play with other patched clients. You cannot play with unpatched clients.
+You can only play with other patched clients. You cannot play with unpatched clients. If you want to play with unpatched clients again, you'll need to unpatch the game.
 
 1. Make sure you're using a modern version of PowerShell
    - You can get it here https://github.com/PowerShell/PowerShell/releases/tag/v7.4.0
